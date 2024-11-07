@@ -7,7 +7,7 @@ This project uses a live API to fetch up-to-date exchange rates and supports a w
 
 **Live Preview:**
 You can view the live version of the Currency Converter app here:  
-[**Currency Converter - Live Preview**](https://your-username.github.io/currency-converter/)
+[**Currency Converter - Live Preview**](https://anmol-2004.github.io/Currency-Converter/)
 
 ---
 
